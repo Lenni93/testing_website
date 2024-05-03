@@ -1,2 +1,3 @@
 # Simple website
-![image](https://github.com/Lenni93/testing_website/assets/43273642/7a4e01b8-b633-4371-a7e2-ee39a6c3f769)
+![image](https://github.com/Lenni93/testing_website/assets/43273642/1b7f0a8c-22ca-4e27-8fea-04dd766885c5)
+
